@@ -1,0 +1,11 @@
+{
+  "resource_pack_name": "WAYOFF - Lone Fletcher",
+  "texture_name": "atlas.terrain",
+  "num_mip_levels": 4,
+  "padding": 8,
+  "texture_data": {
+    "stand": {
+      "textures": "textures/blocks/plank_oak_stand"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resource_pack_name": "WAYOFF - Lone Fletcher",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "stand": {
+      "textures": "textures/item/item_stand"
+    }
+  }
+}
+// ABDS (ignore isso) BASE BY ANDRIEL GAMES 
