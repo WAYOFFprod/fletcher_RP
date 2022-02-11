@@ -6,6 +6,15 @@
   "texture_data": {
     "stand": {
       "textures": "textures/blocks/plank_oak_stand"
+    },
+    "stand_corner": {
+      "textures": "textures/blocks/plank_oak_corner"
+    },
+    "stand_inside_corner": {
+      "textures": "textures/blocks/plank_oak_corner_inside"
+    },
+    "thatched_roof": {
+      "textures": "textures/blocks/hay_block_top"
     }
   }
 }

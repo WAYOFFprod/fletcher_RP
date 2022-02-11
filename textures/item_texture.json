@@ -4,6 +4,9 @@
   "texture_data": {
     "stand": {
       "textures": "textures/item/item_stand"
+    },
+    "thatched_roof": {
+      "textures": "textures/item/thatched_roof_bottom"
     }
   }
 }

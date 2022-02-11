@@ -3,5 +3,9 @@
 	"wayoff:stand": {
 		"textures": "stand",
 		"sound": "wood"
+	},
+	"wayoff:thatched_roof": {
+		"textures": "thatched_roof",
+		"sound": "wood"
 	}
 }
